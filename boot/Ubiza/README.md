@@ -24,14 +24,23 @@ https://www.thingsquare.com/blog/articles/why-iot-mesh/
 
 https://dunkels.com/adam/iot-challenges/
 
-At Thingsquare, we use a lightweight technique to collect crash reports from devices:
+"At Thingsquare, we use a lightweight technique to collect crash reports from devices:
 
     For every build that is uploaded to devices, the ELF binary is stored and tagged with the git commit ID for that build.
     If a device crashes, the program counter at the time of the crash is stored in non-volatile memory.
-    When the device reboots after the crash, the commit ID and program counter at the crash site is reported to the backend.
+    When the device reboots after the crash, the commit ID and program counter at the crash site is reported to the backend."
+
+#### Crash re-synch strategy
+nodes are exact copies
+<pre>pseudo-code
+    :on_crash
+        mve pc, ubiza state    ;load program counter with current sol position
+</pre>
+at boot time, if a crash is detected, the last known valid state is recover, synchronised (as in blockchain) and continue from it.
+Handling the whole as a SoS makes possible to update the 
 
 
-Collaborative protocol with natural (organic) pseudo-encryption
+#### Collaborative protocol with natural (organic) pseudo-encryption
 
 see w3eb and w3iki
 
