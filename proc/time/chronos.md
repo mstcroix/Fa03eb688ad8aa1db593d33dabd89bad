@@ -1,5 +1,9 @@
 # Mass, Eenergy, Time and Space (MEST)
+>If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
+—Nikola Tesla
+
 ## Chronos, The God of Time
+`#RFC-chron-001: /tool/chron`
 
 ### Synchronisation
 But before going deep into what Synchronisation in a "synchronous SoS System" means.
@@ -37,11 +41,11 @@ keyword: to ajust, ending (time), to match
 
 Time: Base 12
 1 minute
-1 phase = 12 minutes
-1 hour = 5 phases * 12 minutes = 60 minutes
+1 periods = 12 minutes
+1 hour = 5 periods * 12 minutes = 60 minutes
 
 Days: 
-1 day = 2 phases * 12 hours = 24 hours = 1440 minutes or 120 phases per day.
+1 day = 2 phases (darker, lighter) * 12 hours = 24 hours = 1440 minutes or 120 periods per day (m periods darker & n periods lighter, where n + m = 120).
 
 #### Gregorian Calendar vs Maya Calendar & Hebrew concept of day change
 
@@ -54,9 +58,9 @@ A cheap implementation for memory + battery constraint (8-bit and 16-bit IoT mac
 </pre>
 
 Schedule
-| Day | Reference | Action | When exactly & precisely (German: *ganz genau*) | Mayan |  
-|-|-|-|-|-|
-| 1 | Earth | [Run, excercise, move physically] | 11:30:19 (UTC-4) Summer time?| 13.0.11.12.16 : hour | 
+| Day | Reference | Action | When exactly & precisely (German: *ganz genau*) | Footprint, Arithmetic runtime | Mayan | Footprint, Arithmetic runtime |  
+|-|-|-|-|-|-|-|
+| 1 | Earth | [Run, excercise, move physically] | 11:30:19 (UTC-4) Summer time?| 13.0.11.12.16 : hour | Python: time: X bytes, m | 6 bytes, n << m |
 | 2 
 | 3
 | 4
