@@ -1,6 +1,7 @@
 # Fa03eb688ad8aa1db593d33dabd89bad = md5("root")
 see [MANIFEST.md](MANIFEST.md)
-see [www_we4](https://www.reddit.com/r/www_we4/
+
+see reddit.com/[r/www_we4](https://www.reddit.com/r/www_we4/)
 
 2030. IoT bees are launched (small battery consumption, solar powered, wireless, over the air updates possible, uIPv4). 2030's computers, or better said, machines running collaborative operating systems (and protocols) will navitevly speak URI, M>D5, escaped 16-bit UNICODE (emoji) and many old-timer 8-bit comebacks.
 - Interactions in the www (web2) and web3 space are no longer human-human or human-machine interactions but also machine-machine.
