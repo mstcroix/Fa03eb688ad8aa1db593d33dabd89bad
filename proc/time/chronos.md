@@ -1,4 +1,4 @@
-# Mass, Eenergy, Time and Space (MEST)
+# Mass, Eenergy, Time & Space (METS) ⚾
 >If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.
 —Nikola Tesla
 
@@ -48,6 +48,9 @@ Days:
 1 day = 2 phases (darker, lighter) * 12 hours = 24 hours = 1440 minutes or 120 periods per day (m periods darker & n periods lighter, where n + m = 120).
 
 #### Gregorian Calendar vs Maya Calendar & Hebrew concept of day change
+_Gregorian_: inexact 365 days, 12 months.
+
+_Maya_: exact 260 days, 13 Moon/28-day calendar.
 
 A cheap implementation for memory + battery constraint (8-bit and 16-bit IoT machines) reduces the need of explicit synchronisation 
 (via exchange of data in the network) and ensures corrective action if needed (i.e. onError:timeDoNotMatch)
